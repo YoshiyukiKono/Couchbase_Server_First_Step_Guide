@@ -1,0 +1,23 @@
+{
+  "name": "Couchbase_Server_First_Step_Guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoshiyukiKono/Couchbase_Server_First_Step_Guide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YoshiyukiKono/Couchbase_Server_First_Step_Guide/issues"
+  },
+  "homepage": "https://github.com/YoshiyukiKono/Couchbase_Server_First_Step_Guide#readme",
+  "dependencies": {
+    "couchbase": "^3.2.1"
+  }
+}
