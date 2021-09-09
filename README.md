@@ -4,7 +4,7 @@
 
 ## サンプルアプリケーション
 ### 動作確認環境
- * Community Edition 7.0.0 build 5302
+ * Couchbase Server Community Edition 7.0.0 build 5302
  * Mac OS Catalina Version 10.15.6
  * Node.js v15.4.0
  * npm 7.0.15
