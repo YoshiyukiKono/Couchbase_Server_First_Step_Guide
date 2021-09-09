@@ -22,7 +22,7 @@ const upsertDocument = async (doc) => {
 
 const removeUser = async (id) => {
   try {
-    const key = `user_${id}`;
+    const key = `${id}`;
     const result = await collection.remove(key);
   } catch (error) {
     console.error(error);
